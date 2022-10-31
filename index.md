@@ -1,1 +1,1 @@
-trying out the skills 'quickstart' TRYING IT OUT, blank front matter
+trying out the skills 'quickstart' TRYING IT OUT, no front matter
