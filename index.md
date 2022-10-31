@@ -12,3 +12,5 @@ trying out the skills 'quickstart' TRYING IT OUT, front matter matching that of 
 copied home.html to new _layouts folder
 ...that seemed to work
 deleted footer in includes (since this didn't seem to fix the 'subscribe via RSS' problem -- I want this not to be shown since I have a subscribe in footer)
+
+now deleting home.html to see if this was the fix to the problem
