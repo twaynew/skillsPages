@@ -8,4 +8,4 @@
 layout: home
 ---
 
-trying out the skills 'quickstart' TRYING IT OUT, front matter matching that of github minima
+trying out the skills 'quickstart' TRYING IT OUT, front matter matching that of github minima, not sure which ver of minima this is...
