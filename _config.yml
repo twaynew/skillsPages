@@ -3,5 +3,6 @@ author: Wayne Whitley
 description: ............also modified in config (previously blank), added show_excerpts config
 github_username:  twaynew
 rss: RSS feed
-show_excerpts: true
+show_excerpts: false
 title: Wayne's blog
+ignore_theme_config: true
