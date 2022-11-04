@@ -10,3 +10,5 @@ here -- added this to a line 11/04
 and again, yet another new line...also deleting part of the previous line
 
 added this line 11/04
+
+added this 2nd line 11/04 (just to show this successful edit via VS Code)
