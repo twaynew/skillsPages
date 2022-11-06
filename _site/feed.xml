@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-06T09:36:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Wayne’s blog</title><subtitle>............also modified in config (previously blank), added show_excerpts config</subtitle><author><name>Wayne Whitley</name></author><entry><title type="html">Welcome to my blog</title><link href="http://localhost:4000/2019/01/20/A-Post-That-Rocks.html" rel="alternate" type="text/html" title="Welcome to my blog" /><published>2019-01-20T00:00:00-05:00</published><updated>2019-01-20T00:00:00-05:00</updated><id>http://localhost:4000/2019/01/20/A-Post-That-Rocks</id><content type="html" xml:base="http://localhost:4000/2019/01/20/A-Post-That-Rocks.html"><![CDATA[<p>a;lkf;laksf;alksjf;klkjlkjlkj;kl j;lkja;alksfjd;lakjsfd;laksjd f;laksjdf;laksjdf ;lkasj;fklajs;fkljas;lkfjsa;lkfj; aslkfj;lsakjf;lksajf;lksaj;flkjasd;lfkjsd;lkjfas;lkjf;lask    a;sldkfja;sklfj;;lkjsf;lkj;aklsfj;alksjdf;lksjf;lakj;lkj</p>
+
+<p>here – added this to a line 11/04</p>
+
+<p>and again, yet another new line…also deleting part of the previous line</p>
+
+<p>added this line 11/04</p>
+
+<p>added this 2nd line 11/04 (just to show this successful edit via VS Code)</p>]]></content><author><name>Wayne Whitley</name></author><summary type="html"><![CDATA[a;lkf;laksf;alksjf;klkjlkjlkj;kl j;lkja;alksfjd;lakjsfd;laksjd f;laksjdf;laksjdf ;lkasj;fklajs;fkljas;lkfjsa;lkfj; aslkfj;lsakjf;lksajf;lksaj;flkjasd;lfkjsd;lkjfas;lkjf;lask a;sldkfja;sklfj;;lkjsf;lkj;aklsfj;alksjdf;lksjf;lakj;lkj]]></summary></entry></feed>
