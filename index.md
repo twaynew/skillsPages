@@ -18,3 +18,6 @@ deleted footer in includes (since this didn't seem to fix the 'subscribe via RSS
 now deleting home.html to see if this was the fix to the problem,
 
 editing footer.html included from my local Jekyll
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
