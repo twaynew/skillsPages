@@ -5,4 +5,4 @@ github_username:  twaynew
 rss: RSS feed
 show_excerpts: false
 title: Wayne's blog
-ignore_theme_config: true
+ignore_theme_config: false
